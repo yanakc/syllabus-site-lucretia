@@ -7,12 +7,11 @@ A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this
 
 <img src='img/Lucretia_Bild.jpg' class='noresize'>
 
-[Portrait of a Woman Inspired by Lucretia, Lorenzo Lotto, c. 1533, oil-on-canvas, 96 cm × 110 cm,  National Gallery London]
-(https://www.nationalgallery.org.uk/paintings/lorenzo-lotto-portrait-of-a-woman-inspired-by-lucretia)  
+[Portrait of a Woman Inspired by Lucretia, Lorenzo Lotto, c. 1533, oil-on-canvas, 96 cm × 110 cm,  National Gallery London](https://www.nationalgallery.org.uk/paintings/lorenzo-lotto-portrait-of-a-woman-inspired-by-lucretia)
 
 
-Scroll along to find out  
-[why](#why), [what](#what), [how](#how) & [who](#who).  
+
+Scroll along to find out who was Lucretia, what are the key elements of the painting and why is it unconventional.
 
 
 ---
