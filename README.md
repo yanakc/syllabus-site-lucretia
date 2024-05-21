@@ -1,4 +1,4 @@
-# Challenging Conventions: Lotto'sLucretia
+# Challenging Conventions: Lotto's Lucretia
 
 A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this captivating painting, Lotto challenges the norms of his time by portraying a woman in a manner deemed unconventional for a Renaissance lady. 
 
@@ -17,7 +17,7 @@ Scroll along to find out who was Lucretia, what are the key elements of the pain
 ---
 
 
-## Why 
+## But first … Who was the Roman heroine Lucretia? 
 
 In the realm of design education and research, there's a common emphasis on outcomes—be it presentations, prototypes, or papers. This focus, while essential, tends to sideline the  exploratory and dynamic process leading to these results. The journey to the final projects is marked by twists, turns, and tangents. This is where much of the learning and discovery occurs. 
 
@@ -25,7 +25,7 @@ In the realm of design education and research, there's a common emphasis on outc
 *Syllabus Site* was conceived as a tool to highlight and document these critical but frequently overlooked aspects of design projects. It serves as a dynamic interface chronicling the voyage through readings, workshops, and discussions.
 
 
-This approach not only retains but celebrates the meandering nature of design as an intellectual journey, ensuring that the wealth of inspirations—from historical examples and theoretical frameworks to contemporary projects and research studies—is preserved and made accessible. 
+*“nor in time to come shall any unchaste woman live if she follows Lucretia's example”*
 
 
 ---
