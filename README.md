@@ -19,16 +19,20 @@ Scroll along to find out who was Lucretia, what are the key elements of the pain
 
 ## But first … Who was the Roman heroine Lucretia? 
 
-To understand Lotto’s painting, we must first know the story of the **Roman heroine Lucretia**.
+To understand Lotto’s painting, we must first know the story of the **Roman heroine Lucretia**. The legend of Lucretia, the wife of Collatinus,  was used in the Roman Republic to symbolize proper womanly virtues such as beauty and chastity and her story was an inspiration for many writers and artists in later times.
 
-The legend of Lucretia, the wife of Collatinus,  was used in the Roman Republic to symbolize proper womanly virtues such as beauty and chastity and her story was an inspiration for many writers and artists in later times.
 The story begins with a drinking bet between young men at Sextus Tarquinius' home, the son of the king of Rome. They decide to surprise their wives to see how they behave in their absence. Lucretia, the wife of Collatinus, behaves virtuously, unlike the other wives of the king's sons. Several days later, Sextus Tarquinius goes to Collatinus' home and is given hospitality. When everyone else is asleep in the house, he goes to Lucretia's bedroom and threatens her with a sword, demanding that she submit to his advances. When she shows no fear of death, he threatens to kill her and stage her body with a servant's to imply adultery. rewrite: She submits, but in the morning calls her father, husband, and uncle and she tells them how she has "lost her honor" and demands that they avenge her rape. Though the men try to convince her that she bears no dishonor, she disagrees and kills herself, her "punishment" for losing her honor.
 
-Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. Retrieved from https://www.thoughtco.com/lucretia-roman-noble-biography-3528396
-
+_Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. Retrieved from https://www.thoughtco.com/lucretia-roman-noble-biography-3528396
+_
 
 **“nor in time to come shall any unchaste woman live if she follows Lucretia's example”** - her last words
 
+
+<img src='img/Tizian_Lucretia.jpg' class='noresize'>
+
+
+<img src='img/Bertrand_Lucretia.jpg' class='noresize'>
 
 ---
 
