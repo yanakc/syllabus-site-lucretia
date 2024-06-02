@@ -26,6 +26,8 @@ The story begins with a drinking bet between young men at Sextus Tarquinius' hom
 _Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. Retrieved from https://www.thoughtco.com/lucretia-roman-noble-biography-3528396
 _
 
+
+<img src='img/Lucretia_Words.jpg' class='noresize'>
 **“nor in time to come shall any unchaste woman live if she follows Lucretia's example”** - her last words
 
 
