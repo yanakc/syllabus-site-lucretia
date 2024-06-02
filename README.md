@@ -23,12 +23,10 @@ To understand Lotto’s painting, we must first know the story of the **Roman he
 
 The story begins with a drinking bet between young men at Sextus Tarquinius' home, the son of the king of Rome. They decide to surprise their wives to see how they behave in their absence. Lucretia, the wife of Collatinus, behaves virtuously, unlike the other wives of the king's sons. Several days later, Sextus Tarquinius goes to Collatinus' home and is given hospitality. When everyone else is asleep in the house, he goes to Lucretia's bedroom and threatens her with a sword, demanding that she submit to his advances. When she shows no fear of death, he threatens to kill her and stage her body with a servant's to imply adultery. rewrite: She submits, but in the morning calls her father, husband, and uncle and she tells them how she has "lost her honor" and demands that they avenge her rape. Though the men try to convince her that she bears no dishonor, she disagrees and kills herself, her "punishment" for losing her honor.
 
-_Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. Retrieved from https://www.thoughtco.com/lucretia-roman-noble-biography-3528396
-_
+_Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. Retrieved from https://www.thoughtco.com/lucretia-roman-noble-biography-3528396_
 
 
-<img src='img/Lucretia_Words.jpg' class='noresize'>
-**“nor in time to come shall any unchaste woman live if she follows Lucretia's example”** - her last words
+
 
 
 <img src='img/Tizian_Lucretia.jpg' class='noresize'>
@@ -37,6 +35,10 @@ _Tarquin and Lucretia, Titian, 1571, oil-on-canvas, 188.9 cm × 145.1 cm,  Fitz
 
 <img src='img/Bertrand_Lucretia.jpg' class='noresize'>
 _Lucretia, Philippe Bertrand, 1704 or earlier, marble, 69.9 × 109.9 × 52.7 cm,  The Metropolitan Museum of Art, New York City_
+
+
+<img src='img/Lucretia_Words.jpg' class='noresize'>
+**“nor in time to come shall any unchaste woman live if she follows Lucretia's example”** - her last words
 ---
 
 
