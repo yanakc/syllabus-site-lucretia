@@ -2,12 +2,11 @@
 
 A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this captivating painting, Lotto challenges the norms of his time by portraying a woman in a manner deemed unconventional for a Renaissance lady. 
 
-*This visualization is based on the article “Lotto’s Lucretia” by Rona Goffen from the Renaissance Quarterly journal vol. 52, no. 3, 1999.*
-
-
-<img src='img/Lucretia_Bild.jpg' class='noresize'>
+img src='img/Lucretia_Bild.jpg' class='noresize'>
 
 [Portrait of a Woman Inspired by Lucretia, Lorenzo Lotto, c. 1533, oil-on-canvas, 96 cm × 110 cm,  National Gallery London](https://www.nationalgallery.org.uk/paintings/lorenzo-lotto-portrait-of-a-woman-inspired-by-lucretia)
+
+*This visualization is based on the article “Lotto’s Lucretia” by Rona Goffen from the Renaissance Quarterly journal vol. 52, no. 3, 1999.*
 
 
 
