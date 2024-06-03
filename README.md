@@ -13,6 +13,9 @@ A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this
 Scroll along to find out who was Lucretia, what are the key elements of the painting and why is it deemed unconventional.
 
 
+Strong-looking women are not to be found in most Renaissance paintings. Why is she staring at us like that? What is she pointing at? At first glance, it is a portrait of a wealthy woman. However, a closer look reveals an image that challenges the traditional stereotypes of women as objects of the male gaze.
+
+
 ---
 
 
@@ -25,8 +28,6 @@ The story begins with a drinking bet between young men at Sextus Tarquinius' hom
 _Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. Retrieved from https://www.thoughtco.com/lucretia-roman-noble-biography-3528396_
 
 
-
-
 ![](img/Tizian_Lucretia.jpg)  
 _Tarquin and Lucretia, Titian, 1571, oil-on-canvas, 188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge_
 
@@ -35,8 +36,8 @@ _Tarquin and Lucretia, Titian, 1571, oil-on-canvas, 188.9 cm × 145.1 cm,  Fitz
 _Lucretia, Philippe Bertrand, 1704 or earlier, marble, 69.9 × 109.9 × 52.7 cm,  The Metropolitan Museum of Art, New York City_
 
 
-![](img/Lucretia_Words.jpg) 
-**“nor in time to come shall any unchaste woman live if she follows Lucretia's example”** - her last words
+![](img/Rembrandt_Lucretia_Eyes.jpg) 
+_Detail from Lucretia, Rembrandt, 1666, oil-on-canvas, 110.2 cm × 92.3 cm, Minneapolis Institute of Arts, Minneapolis_
 
 
 ---
