@@ -30,13 +30,13 @@ _Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. 
 ![](img/Tizian_Lucretia.jpg)  
 _Tarquin and Lucretia, Titian, 1571, oil-on-canvas, 188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge_
 
-<img src='img/Bertrand_Lucretia.jpg' class='noresize'>
 
-[_Lucretia, Philippe Bertrand, 1704 or earlier, marble, 69.9 × 109.9 × 52.7 cm,  The Metropolitan Museum of Art, New York City_]
+![](img/Bertrand_Lucretia.jpg)  
+_Lucretia, Philippe Bertrand, 1704 or earlier, marble, 69.9 × 109.9 × 52.7 cm,  The Metropolitan Museum of Art, New York City_
 
-<img src='img/Lucretia_Words.jpg' class='noresize'>
 
-[**“nor in time to come shall any unchaste woman live if she follows Lucretia's example”** - her last words]
+![](img/Lucretia_Words.jpg) 
+**“nor in time to come shall any unchaste woman live if she follows Lucretia's example”** - her last words
 
 
 ---
