@@ -2,7 +2,7 @@
 
 A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this captivating painting, Lotto challenges the norms of his time by portraying a woman in a manner deemed unconventional for a Renaissance lady. 
 
-img src='img/Lucretia_Bild.jpg' class='noresize'>
+<img src='img/Lucretia_Bild.jpg' class='noresize'>
 
 [Portrait of a Woman Inspired by Lucretia, Lorenzo Lotto, c. 1533, oil-on-canvas, 96 cm × 110 cm,  National Gallery London](https://www.nationalgallery.org.uk/paintings/lorenzo-lotto-portrait-of-a-woman-inspired-by-lucretia)
 
@@ -29,15 +29,20 @@ _Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. 
 
 
 <img src='img/Tizian_Lucretia.jpg' class='noresize'>
-_Tarquin and Lucretia, Titian, 1571, oil-on-canvas, 188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge_
 
+_Tarquin and Lucretia, Titian, 1571, oil-on-canvas, 188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge
+_
 
 <img src='img/Bertrand_Lucretia.jpg' class='noresize'>
-_Lucretia, Philippe Bertrand, 1704 or earlier, marble, 69.9 × 109.9 × 52.7 cm,  The Metropolitan Museum of Art, New York City_
 
+_Lucretia, Philippe Bertrand, 1704 or earlier, marble, 69.9 × 109.9 × 52.7 cm,  The Metropolitan Museum of Art, New York City
+_
 
 <img src='img/Lucretia_Words.jpg' class='noresize'>
+
 **“nor in time to come shall any unchaste woman live if she follows Lucretia's example”** - her last words
+
+
 ---
 
 
