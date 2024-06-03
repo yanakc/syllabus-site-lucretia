@@ -48,7 +48,9 @@ _Detail from Lucretia, Rembrandt, 1666, oil-on-canvas, 110.2 cm × 92.3 cm, Minn
 
 Lorenzo Lotto (about 1480 - 1556) was an important Italian painter of the High Renaissance and early Mannerism. He painted almost exclusively religious subjects, portraits, and a few allegorical pictures. Lotto worked mainly in Northern Italy and is traditionally included in the Venetian School. His art follows the naturalistic ideals of the High Renaissance, but he often disrupts their typical harmony with unusually dynamic poses and distortions.
 
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](img/Bertrand_Lucretia_png.png)  |  ![](img/Rembrandt_Lucretia_Eyes.jpg)
 
 ---
 
