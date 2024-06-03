@@ -44,6 +44,15 @@ _Detail from Lucretia, Rembrandt, 1666, oil-on-canvas, 110.2 cm × 92.3 cm, Minn
 ---
 
 
+## Lorenzo Lotto
+
+Lorenzo Lotto (about 1480 - 1556) was an important Italian painter of the High Renaissance and early Mannerism. He painted almost exclusively religious subjects, portraits, and a few allegorical pictures. Lotto worked mainly in Northern Italy and is traditionally included in the Venetian School. His art follows the naturalistic ideals of the High Renaissance, but he often disrupts their typical harmony with unusually dynamic poses and distortions.
+
+
+
+---
+
+
 ## What
 
 A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
