@@ -52,11 +52,12 @@ Lorenzo Lotto (about 1480 - 1556) was an important Italian painter of the High R
 ---
 
 
-## Lorenzo Lotto
+## Posture
 
 gagliardia            |  leggiadria
 :-------------------------:|:-------------------------:
 ![](img/Bertrand_Lucretia_png.png "title-1")  |  ![](img/Rembrandt_Lucretia_Eyes.jpg "title-2")
+| _Portrait of Francesco Maria della Rovere, Duke of Urbino, Titian, between 1536 and 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence_ | _Portrait of Eleonora Gonzaga della Rovere, Duchess of Urbino, Titian, 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence_ |
 
 
 ---
