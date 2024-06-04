@@ -1,7 +1,7 @@
 # Challenging Conventions:
 # Lotto's Lucretia
 
-A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this captivating painting, Lotto challenges the norms of his time by portraying a woman in a manner deemed unconventional for a Renaissance lady. 
+==A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this captivating painting, Lotto challenges the norms of his time by portraying a woman in a manner deemed unconventional for a Renaissance lady.==
 
 <img src='img/Lucretia_Bild.jpg' class='noresize'>
 
