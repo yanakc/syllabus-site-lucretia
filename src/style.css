@@ -442,3 +442,7 @@ footer a:hover img, footer a:active img {
         right: 1%;
     }
 }
+::selection {
+  background: #000;
+  color: #ff0000;
+}
