@@ -50,7 +50,7 @@ Lorenzo Lotto (about 1480 - 1556) was an important Italian painter of the High R
 
 
 ![](img/Lotto_Portrait.jpg)  
-
+_Lorenzo Lotto: presumed Self-Portrait, Lorenzo Lotto, 1540s, oil on panel, 43 cm × 35 cm, Thyssen-Bornemisza Museum_
 
 ---
 
