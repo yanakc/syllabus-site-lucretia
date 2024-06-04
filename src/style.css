@@ -39,6 +39,7 @@ body {
     --font: #000;
     --font-inverted: #fff;
     --link: color-mix(in srgb, var(--theme-color), var(--font));
+    --mark: background-color: red
     --hover: var(--theme-color);
     margin: 0;
     overflow-x: hidden;
