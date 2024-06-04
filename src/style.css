@@ -65,7 +65,10 @@ body {
     background-color: var(--theme-color);
     opacity: 1;
 }
-
+mark {
+  background-color: red;
+  color: black;
+}
 .content, .content *, canvas, .cursor {
 	transition: opacity 0.25s ease, background-color 0.25s ease;
 }
