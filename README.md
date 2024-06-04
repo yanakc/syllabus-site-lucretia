@@ -68,7 +68,9 @@ gagliardia            |  leggiadria
 
 ## What
 
-A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
+A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically. [^1]
+
+[^1]: test
 
 
 ### Design
