@@ -50,7 +50,17 @@ Lorenzo Lotto (about 1480 - 1556) was an important Italian painter of the High R
 
 
 ![](img/Lotto_Portrait.jpg)  
-_Lorenzo Lotto: presumed Self-Portrait, Lorenzo Lotto, 1540s, oil on panel, 43 cm × 35 cm, Thyssen-Bornemisza Museum_
+_Lorenzo Lotto: presumed Self-Portrait, Lorenzo Lotto, 1540s, oil on panel, 43 × 35 cm, Thyssen-Bornemisza Museum, Madrid_
+
+
+![](img/Lotto_Christ.jpg)  
+_Christ giving his Blood, Lorenzo Lotto, 1543, oil on poplar wood, 50 × 32 cm, Kunsthistorisches Museum, Vienna_
+
+
+![](img/Lotto_Couple.jpg)  
+_Portrait of a Married Couple, Lorenzo Lotto, c. 1523 - 1524, oil on canvas, 96 × 116 cm, The State Hermitage Museum, Saint Petersburg_
+
+
 
 ---
 
