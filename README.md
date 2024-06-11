@@ -100,10 +100,25 @@ _Portrait of a Courtesan, Caravaggio, 1601, oil on canvas, 66 x 33 cm, Bode Muse
 
 ## Posture
 
+Her strong, athletic posture is unexpected and inappropriate for a Renaissance lady. Ladies stand or sit quietly, arms close to the body and legs together; no powerful movements, no aggressive gestures. These are only appropriate for a man, such as in Titian's portrait of a duke (see below). In the Renaissance books of manners, such self-confident, even threatening actions are called _gagliardo_. In contrast to the duke, his duchess sits still in Titian's portrait, holding a book. Contemporaries would describe her pose as graceful (_leggiadra_). Lucretia's pose is _gagliardo_, i.e. suitable for a man but not for a woman.
+
 gagliardia            |  leggiadria
 :-------------------------:|:-------------------------:
 ![](img/Tizian_Francesco_Gonzaga_della_Rovere.jpg "title-1")  |  ![](img/Tizian_Eleonora_Gonzaga_della_Rovere.jpg "title-2")
 | _Portrait of Francesco Maria della Rovere, Duke of Urbino, Titian, between 1536 and 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence_ | _Portrait of Eleonora Gonzaga della Rovere, Duchess of Urbino, Titian, 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence_ |
+
+
+Another portrait by Lotto:
+![](img/Lotto_Man.jpg) 
+_Portrait of a Man, possibly Girolamo Rosati, Lorenzo Lotto, 1533-34, oil on canvas, 135.9 x 128 x 8.6 cm, Cleveland Museum of Art_
+
+
+_"a provocative, confrontational stare and a vigorous, sweeping gesture, at the time more characteristic of a man than of a woman."_
+Sheard, Wendy Stedman. The Portraits. In Brown, Humfrey, and Lucco, Lorenzo Lotto, 43-5 1.
+
+
+_“but above all I think that in her ways, manners, words, gestures, and bearing, a woman ought to be very unlike a man; for just as he must show a certain solid and sturdy manliness, so it is seemly for a woman to have a soft and delicate tenderness, with an air of womanly sweetness in her every movement, which, in her going and staying, and in whatever she says, shall always make her appear the woman without any resemblance to a man.”_
+Castiglione, Baldassar. Il Libro del cortegiano. The Book of the Courtier. Trans. Charles S. Singleton. New York, 1959. 205-06 (bk. 3.4); the speaker is the Magnifico.
 
 
 ---
