@@ -75,6 +75,28 @@ Lotto aimed to visualize the virtue of the Roman heroine in the person of a cont
 
 ---
 
+## Her Identity
+
+We do not know the identity of the woman in the portrait or who paid for it - presumably a wealthy Venetian who wanted a painting of his wife Lucretia.
+
+<img src='img/Lucretia_Identity_3.jpg' class='noresize'>
+
+
+### Lucrezia Valier
+
+According to Goffen, a hypothesis suggests that the depicted woman is Lucrezia di Francesco Valier, who married Benedetto Pesaro on 19 January 1533. The painting's style fits a date around 1533, and most scholars accept Lucrezia Valier Pesaro as the subject. However, this identification remains uncertain.
+
+
+### La cortigiana
+
+Some art historians have criticized Lucretia's dress and jewelry for being too ostentatious for a true northern Italian matron. One copy of Lotto's Lucretia was even labeled _“Portrait of a Great Venetian prostitute”_. The French historian Jacques Bonnet recalls that the portrait was called _“La cortigiana”_ (the courtesan) for many years.
+
+![](img/Caravaggio_Courtesan.jpg)  
+_Portrait of a Courtesan, Caravaggio, 1601, oil on canvas, 66 x 33 cm, Bode Museum, Berlin_
+
+
+---
+
 
 ## Posture
 
