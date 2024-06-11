@@ -79,7 +79,7 @@ Lotto aimed to visualize the virtue of the Roman heroine in the person of a cont
 
 We do not know the identity of the woman in the portrait or who paid for it - presumably a wealthy Venetian who wanted a painting of his wife Lucretia.
 
-<img src='img/Lucretia_Identity_3.jpg' class='noresize'>
+<img src='img/Lucretia_Identity_3.png' class='noresize'>
 
 
 ### Lucrezia Valier
