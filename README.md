@@ -61,6 +61,17 @@ _Christ giving his Blood, Lorenzo Lotto, 1543, oil on poplar wood, 50 × 32 cm, 
 _Portrait of a Married Couple, Lorenzo Lotto, c. 1523 - 1524, oil on canvas, 96 × 116 cm, The State Hermitage Museum, Saint Petersburg_
 
 
+---
+
+
+## Thesis
+
+The article opens with a thesis from the author:
+
+_"Lottos' Lucretia is posed in a way that Renaissance viewers would have recognized as masculine and therefore inappropriate for a lady. Moreover, Lucretia holds afictive drawing, representing the suicide other Roman namesake. The depiction of a fictive drawing was quite exceptional in the 1530s. Lotto' reasons for posing his Lucretia in such an unexpected, masculine way, and his representation of her predecessor's death as a fictive drawing are the means whereby he asserts her virtue. Doing so, Lotto seems to question the traditional patriarchal definitions of woman, female chastity and female sexuality that Lucretia herself has come to embody."_
+
+Lotto aimed to visualize the virtue of the Roman heroine in the person of a contemporary, living woman. He also did much more to interpret Lucretia's character. Based on the article, this visualization explains the additional clues in the painting.
+
 
 ---
 
