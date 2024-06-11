@@ -91,6 +91,7 @@ According to Goffen, a hypothesis suggests that the depicted woman is Lucrezia d
 
 Some art historians have criticized Lucretia's dress and jewelry for being too ostentatious for a true northern Italian matron. One copy of Lotto's Lucretia was even labeled _“Portrait of a Great Venetian prostitute”_. The French historian Jacques Bonnet recalls that the portrait was called _“La cortigiana”_ (the courtesan) for many years.
 
+
 ![](img/Caravaggio_Courtesan.jpg)  
 _Portrait of a Courtesan, Caravaggio, 1601, oil on canvas, 66 x 33 cm, Bode Museum, Berlin_
 
