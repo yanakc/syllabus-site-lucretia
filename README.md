@@ -110,7 +110,7 @@ gagliardia            |  leggiadria
 
 
 Another portrait by Lotto:
-<img src='img/Lotto_Man.jpg' class='noresize'>
+<img src='img/Lotto_Man.jpg' width="400" height="500">
 _Portrait of a Man, possibly Girolamo Rosati, Lorenzo Lotto, 1533-34, oil on canvas, 135.9 x 128 x 8.6 cm, Cleveland Museum of Art_
 
 
