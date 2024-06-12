@@ -135,7 +135,7 @@ div.hasImg span {
 
 h1 {
     margin: .25em 0;
-    font-size: 2em;
+    font-size: 1.8em;
 }
 h2 {
     margin: .25em 0;
@@ -220,7 +220,7 @@ p {
     background-color: var(--background-content);
     z-index:2;
     border-radius: .5em;
-    font-size: 0.85em;
+    font-size: 0.6em;
 }
 
 .content figure {
