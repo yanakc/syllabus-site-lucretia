@@ -126,6 +126,46 @@ Castiglione, Baldassar. Il Libro del cortegiano. The Book of the Courtier. Trans
 ---
 
 
+## Veil
+
+_“Her movements are so forceful that her veil, which should be tucked neatly into her bodice, has pulled loose from the gown and flutters behind her right shoulder”_, points out the author. This makes Lucretia look slightly disheveled and contrasts _Madonna and Child with Two Donors_ and _St Lucy before the Judge_, where the women’s veils are neatly tucked in their bodice.
+
+<img src='img/Lucretia_Veil.jpg' class='noresize'>
+
+
+![](img/Veil_Lucy.jpg)
+_Detail from St Lucy before the Judge, Lorenzo Lotto, 1532, oil on panel, 243 × 237 cm, Jesi Municipal Art Gallery_
+
+
+![](img/Veil_Madonna_crop.jpg)
+_Detail from Madonna and Child with Two Donors, Lorenzo Lotto, 1533, oil on canvas, 87.6 × 118.1 cm, J. Paul Getty Museum, Los Angeles_
+
+
+_“Perhaps the disarray of the modern Lucretia's veil is meant as an indirect allusion to the disarray of Roman Lucretia's garments when Tarquin assaults her and also to the disarray of her drapery when she assaults herself. If the veil suggests assault, however, it is an attack that this woman repels, not only by reference to her ancient namesake but with her serious demeanor and vigorous movement.”_
+
+
+---
+
+## Cartellino
+
+Looking at the table on the right, we see the _cartellino_, a realistically drawn piece of paper that records Lucretia's dying declaration: “NEC ULLA IMPUDICA LUCRETIAE EXEMPLO VIVET” (“no unchaste woman shall live if she follows Lucretia's example”).
+
+_“The woman who holds the drawing of Lucretia indicates these words with her right hand, thus effectively claiming them, or declaiming them, for herself: like Roman Lucretia, this wife is chaste, and rather than live unchaste, she would kill herself.”_
+
+Lucretia's declaration is therefore addressed to her husband - both to Collatinus and to the husband of the living Lucretia, the intended recipient of her picture. The wallflower lying on the table is a symbol of the holy love, love sanctified by marriage.
+
+
+
+![](img/Lucretia_Words_png.png)
+
+
+
+![](img/Lucretia_Flower_png.png)
+
+
+---
+
+
 ## What
 
 A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically. [^1]
