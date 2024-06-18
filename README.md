@@ -188,6 +188,23 @@ The National Gallery, London. (2016). Putti | Glossary | National Gallery, Londo
 
 ---
 
+## zazara (headdress)
+
+<img src='img/Lucretia_Zazara.jpg' class='noresize'>
+
+_"In Renaissance Italy as in other cultures, married women - including nuns, who are married to Christ bind and cover their hair with nets, snoods, coifs, turbanswimples, or this kind of loopy concoction, called a zazara. Such zazare were worn by fashionable married ladies in the 1520s and 1530s."‌_
+
+
+According to Paola Tinagli in _Women in Italian Renaissance Art: Gender, Representation, Identity_ (page 107), Isabella d'Este, the Marchesa of Mantua, created and promoted the zazara.
+
+![](img/Zazara_2.jpg)
+
+
+![](img/Zazara_1.jpg)
+
+
+---
+
 
 ## What
 
