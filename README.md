@@ -165,6 +165,29 @@ Lucretia's declaration is therefore addressed to her husband - both to Collatinu
 
 ---
 
+## Jewelry
+
+The way Lucretia wears her jewelry is also strange. You would expect a lady to wear her necklace around her neck and not tuck it into her bodice. Goffen argues that Lucretia's necklace is an avowal of wealth, with a large gem flanked by two putti on cornucopias.
+
+<img src='img/Lucretia_Necklace.jpg' class='noresize'>
+
+
+
+_“‌The most important jewelry item from the Renaissance was the pendant. It replaced the Medieval brooch as being the most common jewel and was worn on a necklace, long gold chain, fixed to the dress or on a chain worn on the girdle. The pendants were often designed to be seen from both sides with their enameled backs equally impressive as their jewel-encrusted fronts.”_ 
+Renaissance Jewelry – Antique Jewelry University. (2024). Retrieved June 11, 2024, from Langantiques.com website: https://www.langantiques.com/university/renaissance-jewelry/
+
+![](img/Pendant_2.jpg)
+
+_Detail from Portrait of Bianca Ponzoni Anguissola, Sofonisba Anguissola, ca. 1557, oil on canvas, 98 × 75 cm, Gemäldegalerie, Berlin_
+
+
+_Putto (plural, putti) are winged infants who either play the role of angelic spirits in religious works, or act as instruments of profane love. They are often shown as associates of Cupid._
+
+The National Gallery, London. (2016). Putti | Glossary | National Gallery, London. Retrieved June 11, 2024, from Nationalgallery.org.uk website: https://www.nationalgallery.org.uk/paintings/glossary/putti
+
+
+---
+
 
 ## What
 
