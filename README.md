@@ -7,8 +7,7 @@ A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this
 
 [Portrait of a Woman Inspired by Lucretia, Lorenzo Lotto, c. 1533, oil-on-canvas, 96 cm × 110 cm,  National Gallery London](https://www.nationalgallery.org.uk/paintings/lorenzo-lotto-portrait-of-a-woman-inspired-by-lucretia)
 
-*This visualization is based on the article “Lotto’s Lucretia” by Rona Goffen from the Renaissance Quarterly journal vol. 52, no. 3, 1999.*
-
+_This visualization is based on the article “Lotto’s Lucretia” by Rona Goffen from the Renaissance Quarterly journal vol. 52, no. 3, 1999. All citations from this text will be marked with an asterisk (*)._
 
 
 Scroll along to find out who was Lucretia, what are the key elements of the painting and why is it deemed unconventional.
@@ -68,7 +67,7 @@ _Portrait of a Married Couple, Lorenzo Lotto, c. 1523 - 1524, oil on canvas, 96 
 
 The article opens with a thesis from the author:
 
-_"Lottos' Lucretia is posed in a way that Renaissance viewers would have recognized as masculine and therefore inappropriate for a lady. Moreover, Lucretia holds afictive drawing, representing the suicide other Roman namesake. The depiction of a fictive drawing was quite exceptional in the 1530s. Lotto' reasons for posing his Lucretia in such an unexpected, masculine way, and his representation of her predecessor's death as a fictive drawing are the means whereby he asserts her virtue. Doing so, Lotto seems to question the traditional patriarchal definitions of woman, female chastity and female sexuality that Lucretia herself has come to embody."_
+_"Lottos' Lucretia is posed in a way that Renaissance viewers would have recognized as masculine and therefore inappropriate for a lady. Moreover, Lucretia holds afictive drawing, representing the suicide other Roman namesake. The depiction of a fictive drawing was quite exceptional in the 1530s. Lotto' reasons for posing his Lucretia in such an unexpected, masculine way, and his representation of her predecessor's death as a fictive drawing are the means whereby he asserts her virtue. Doing so, Lotto seems to question the traditional patriarchal definitions of woman, female chastity and female sexuality that Lucretia herself has come to embody."*_
 
 Lotto aimed to visualize the virtue of the Roman heroine in the person of a contemporary, living woman. He also did much more to interpret Lucretia's character. Based on the article, this visualization explains the additional clues in the painting.
 
@@ -120,7 +119,7 @@ Sheard, Wendy Stedman. The Portraits. In Brown, Humfrey, and Lucco, Lorenzo Lott
 
 _“but above all I think that in her ways, manners, words, gestures, and bearing, a woman ought to be very unlike a man; for just as he must show a certain solid and sturdy manliness, so it is seemly for a woman to have a soft and delicate tenderness, with an air of womanly sweetness in her every movement, which, in her going and staying, and in whatever she says, shall always make her appear the woman without any resemblance to a man.”_
 
-Castiglione, Baldassar. Il Libro del cortegiano. The Book of the Courtier. Trans. Charles S. Singleton. New York, 1959. 205-06 (bk. 3.4); the speaker is the Magnifico.
+Castiglione, Baldassare. Il Libro del cortegiano. The Book of the Courtier. Trans. Charles S. Singleton. New York, 1959. 205-06 (bk. 3.4); the speaker is the Magnifico.
 
 
 ---
@@ -190,7 +189,7 @@ The National Gallery, London. (2016). Putti | Glossary | National Gallery, Londo
 ---
 
 
-## zazara (headdress)
+## Zazara (headdress)
 
 <img src='img/Lucretia_Zazara.jpg' class='noresize'>
 
