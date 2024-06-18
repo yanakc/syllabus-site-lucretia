@@ -236,6 +236,17 @@ _Detail from Calumny of Apelles, Sandro Botticelli, 1496-1497, tempera on panel,
 
 ---
 
+## An alter ego
+
+The other piece of paper is a drawing of Lucretia’s suicide. The way she holds it, along with the creased paper, further emphasizes her masculine demeanor and strong character.
+
+<img src='img/Lucretia_Drawing_2.jpg'>
+
+_“Lucretia has a double identity. Lucretia is both herself, presumably with her own face, clothing and jewels, and she is also her pagan onomastic saint. (...)The modern brides or wives are both themselves, in the 1520s or 1530s, and their classical namesakes. They act for themselves and for their predecessors and, doing so, transform their predecessors into alter egos.”*_
+
+
+---
+
 
 ## What
 
