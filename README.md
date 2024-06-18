@@ -127,7 +127,7 @@ Castiglione, Baldassare. Il Libro del cortegiano. The Book of the Courtier. Tran
 
 ## Veil
 
-_“Her movements are so forceful that her veil, which should be tucked neatly into her bodice, has pulled loose from the gown and flutters behind her right shoulder”_, points out the author. This makes Lucretia look slightly disheveled and contrasts _Madonna and Child with Two Donors_ and _St Lucy before the Judge_, where the women’s veils are neatly tucked in their bodice.
+_“Her movements are so forceful that her veil, which should be tucked neatly into her bodice, has pulled loose from the gown and flutters behind her right shoulder”*_, points out the author. This makes Lucretia look slightly disheveled and contrasts _Madonna and Child with Two Donors_ and _St Lucy before the Judge_, where the women’s veils are neatly tucked in their bodice.
 
 <img src='img/Lucretia_Veil.jpg' class='noresize'>
 
@@ -140,7 +140,7 @@ _Detail from St Lucy before the Judge, Lorenzo Lotto, 1532, oil on panel, 243 ×
 _Detail from Madonna and Child with Two Donors, Lorenzo Lotto, 1533, oil on canvas, 87.6 × 118.1 cm, J. Paul Getty Museum, Los Angeles_
 
 
-_“Perhaps the disarray of the modern Lucretia's veil is meant as an indirect allusion to the disarray of Roman Lucretia's garments when Tarquin assaults her and also to the disarray of her drapery when she assaults herself. If the veil suggests assault, however, it is an attack that this woman repels, not only by reference to her ancient namesake but with her serious demeanor and vigorous movement.”_
+_“Perhaps the disarray of the modern Lucretia's veil is meant as an indirect allusion to the disarray of Roman Lucretia's garments when Tarquin assaults her and also to the disarray of her drapery when she assaults herself. If the veil suggests assault, however, it is an attack that this woman repels, not only by reference to her ancient namesake but with her serious demeanor and vigorous movement.”*_
 
 
 ---
@@ -149,7 +149,7 @@ _“Perhaps the disarray of the modern Lucretia's veil is meant as an indirect a
 
 Looking at the table on the right, we see the _cartellino_, a realistically drawn piece of paper that records Lucretia's dying declaration: “NEC ULLA IMPUDICA LUCRETIAE EXEMPLO VIVET” (“no unchaste woman shall live if she follows Lucretia's example”).
 
-_“The woman who holds the drawing of Lucretia indicates these words with her right hand, thus effectively claiming them, or declaiming them, for herself: like Roman Lucretia, this wife is chaste, and rather than live unchaste, she would kill herself.”_
+_“The woman who holds the drawing of Lucretia indicates these words with her right hand, thus effectively claiming them, or declaiming them, for herself: like Roman Lucretia, this wife is chaste, and rather than live unchaste, she would kill herself.”*_
 
 Lucretia's declaration is therefore addressed to her husband - both to Collatinus and to the husband of the living Lucretia, the intended recipient of her picture. The wallflower lying on the table is a symbol of the holy love, love sanctified by marriage.
 
@@ -193,7 +193,7 @@ The National Gallery, London. (2016). Putti | Glossary | National Gallery, Londo
 
 <img src='img/Lucretia_Zazara.jpg' class='noresize'>
 
-_"In Renaissance Italy as in other cultures, married women - including nuns, who are married to Christ bind and cover their hair with nets, snoods, coifs, turbanswimples, or this kind of loopy concoction, called a zazara. Such zazare were worn by fashionable married ladies in the 1520s and 1530s."‌_
+_"In Renaissance Italy as in other cultures, married women - including nuns, who are married to Christ bind and cover their hair with nets, snoods, coifs, turbanswimples, or this kind of loopy concoction, called a zazara. Such zazare were worn by fashionable married ladies in the 1520s and 1530s."‌*_
 
 
 <img src='img/Zazara_1.jpg' width='300'>
@@ -215,13 +215,14 @@ _Portrait of Isabella d'Este, Titian, 1536, oil-on-canvas, 102 x 64 cm, Kunsthis
 ## Venus Pudica
 
 "Venus pudica" is a term used to describe a classic figural pose in Western art. In this, an unclothed female (either standing or reclining) keeps one hand covering her private parts.
+
 Esaak, Shelley. (2020, August 26). Venus Pudica. Retrieved from https://www.thoughtco.com/venus-pudica-182475
 
 <img src='img/Lucretia_Drawing_png.png'>
 
 The author argues that Lotto intentionally evokes the Venus Pudica in the drawing of the Roman Lucretia, but this intention may not align with Lucretia's own perception or may have been intended differently by her. We are meant to grasp this irony, as well as the ironic contrast with the living Lucretia.
 
-_“Lotto's Lucretia is also ashamed, and like Botticelli's Truth, she holds her right hand away from herself Truth is proclaiming her innocence, that is, she is proclaiming her identity as Truth, while Lucretia is aiming the knife at her bosom - but with the same proclamation of truth implied in the action. It is precisely this act of self-destruction that gives proof to Lucretia's claims of truth, as she herself has already told us.”_
+_“Lotto's Lucretia is also ashamed, and like Botticelli's Truth, she holds her right hand away from herself Truth is proclaiming her innocence, that is, she is proclaiming her identity as Truth, while Lucretia is aiming the knife at her bosom - but with the same proclamation of truth implied in the action. It is precisely this act of self-destruction that gives proof to Lucretia's claims of truth, as she herself has already told us.”*_
 
 
 <img src='img/Botticelli_Venus_png.png'>
