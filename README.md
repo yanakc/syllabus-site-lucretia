@@ -236,6 +236,7 @@ _Detail from Calumny of Apelles, Sandro Botticelli, 1496-1497, tempera on panel,
 
 ---
 
+
 ## An alter ego
 
 The other piece of paper is a drawing of Lucretia’s suicide. The way she holds it, along with the creased paper, further emphasizes her masculine demeanor and strong character.
@@ -243,6 +244,19 @@ The other piece of paper is a drawing of Lucretia’s suicide. The way she holds
 <img src='img/Lucretia_Drawing_2.jpg'>
 
 _“Lucretia has a double identity. Lucretia is both herself, presumably with her own face, clothing and jewels, and she is also her pagan onomastic saint. (...)The modern brides or wives are both themselves, in the 1520s or 1530s, and their classical namesakes. They act for themselves and for their predecessors and, doing so, transform their predecessors into alter egos.”*_
+
+
+---
+
+
+## Disegno
+
+According to Vasari, disegno is “the foundation" ("II fondamento") of the arts of sculpture and painting.
+
+_“A pen drawing is totally devoid of color, the image being defined only by line. According to ancient and Renaissance thinking, color is inherently feminine and therefore inferior; line, equated with disegno, is on the contrary innately masculine and therefore superior. Line alone may define a thing - as lines define suicidal Lucretia in Lotto's drawing; color may embellish or enrich an image but color by itself is meaningless. The fundamental issue is this: color is feminine and line or disegno masculine.”*_
+
+
+_“Making his suicidal Lucretia a two-dimensional image on paper, Lotto protects her from our grasp, a fact that he underscores with irony by the vigor, not to say brutality, with which his real Lucretia grabs the image. Similarly, refusing to color his suicidal Lucretia, Lotto in effect masculinizes her, shields her from the familiar charge of seductive femininity.”*_
 
 
 ---
