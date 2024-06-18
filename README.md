@@ -177,7 +177,7 @@ The way Lucretia wears her jewelry is also strange. You would expect a lady to w
 _“‌The most important jewelry item from the Renaissance was the pendant. It replaced the Medieval brooch as being the most common jewel and was worn on a necklace, long gold chain, fixed to the dress or on a chain worn on the girdle. The pendants were often designed to be seen from both sides with their enameled backs equally impressive as their jewel-encrusted fronts.”_ 
 Renaissance Jewelry – Antique Jewelry University. (2024). Retrieved June 11, 2024, from Langantiques.com website: https://www.langantiques.com/university/renaissance-jewelry/
 
-<img src="Pendant_2.jpg" width="300"/>
+<img src='img/Pendant_2.jpg' width='300'>
 
 _Detail from Portrait of Bianca Ponzoni Anguissola, Sofonisba Anguissola, ca. 1557, oil on canvas, 98 × 75 cm, Gemäldegalerie, Berlin_
 
