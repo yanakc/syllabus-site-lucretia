@@ -202,10 +202,12 @@ _"In Renaissance Italy as in other cultures, married women - including nuns, who
 According to Paola Tinagli in _Women in Italian Renaissance Art: Gender, Representation, Identity_ (page 107), Isabella d'Este, the Marchesa of Mantua, created and promoted the zazara.
 
 <img src='img/Zazara_2.jpg' width='300'>
+
 _Portrait of Isabella d'Este, Titian, 1536, oil-on-canvas, 102 x 64 cm, Kunsthistorisches Museum, Vienna_
 
 
 <img src='img/Zazara_1.jpg' width='300'>
+
 _Portrait of Margherita Paleologo, Giulio Romano, 1531, oil-on-panel, 115.3 x 91 x 2.1 cm, King's Dressing Room, Windsor Castle_
 
 
