@@ -213,6 +213,26 @@ _Portrait of Isabella d'Este, Titian, 1536, oil-on-canvas, 102 x 64 cm, Kunsthis
 
 ---
 
+## Venus Pudica
+
+"Venus pudica" is a term used to describe a classic figural pose in Western art. In this, an unclothed female (either standing or reclining) keeps one hand covering her private parts.
+Esaak, Shelley. (2020, August 26). Venus Pudica. Retrieved from https://www.thoughtco.com/venus-pudica-182475
+
+<img src='img/Lucretia_Drawing_png.png'>
+
+The author argues that Lotto intentionally evokes the Venus Pudica in the drawing of the Roman Lucretia, but this intention may not align with Lucretia's own perception or may have been intended differently by her. We are meant to grasp this irony, as well as the ironic contrast with the living Lucretia.
+
+_“Lotto's Lucretia is also ashamed, and like Botticelli's Truth, she holds her right hand away from herself Truth is proclaiming her innocence, that is, she is proclaiming her identity as Truth, while Lucretia is aiming the knife at her bosom - but with the same proclamation of truth implied in the action. It is precisely this act of self-destruction that gives proof to Lucretia's claims of truth, as she herself has already told us.”_
+
+
+<img src='img/Botticelli_Venus_png.png'>
+
+
+<img src='img/Botticelli_Apelles.jpg'>
+
+
+---
+
 
 ## What
 
