@@ -29,7 +29,7 @@ _Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. 
 
 
 ![](img/Tizian_Lucretia.jpg)  
-_Tarquin and Lucretia, Titian, 1571, oil-on-canvas, 188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge_
+<span style="font-size:0.5em;">Tarquin and Lucretia, Titian, 1571, oil-on-canvas, 188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge</span>
 
 
 ![](img/Bertrand_Lucretia_png.png)  
