@@ -105,7 +105,7 @@ Her strong, athletic posture is unexpected and inappropriate for a Renaissance l
 gagliardia            |  leggiadria
 :-------------------------:|:-------------------------:
 ![](img/Tizian_Francesco_Gonzaga_della_Rovere.jpg "title-1")  |  ![](img/Tizian_Eleonora_Gonzaga_della_Rovere.jpg "title-2")
-| _Portrait of Francesco Maria della Rovere, Duke of Urbino, Titian, between 1536 and 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence_ | _Portrait of Eleonora Gonzaga della Rovere, Duchess of Urbino, Titian, 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence_ |
+| <span style="font-size:0.7em;">Portrait of Francesco Maria della Rovere, Duke of Urbino, Titian, between 1536 and 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence</span> | <span style="font-size:0.7em;">Portrait of Eleonora Gonzaga della Rovere, Duchess of Urbino, Titian, 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence</span> |
 
 
 ![](img/Lotto_Man.jpg)
