@@ -235,6 +235,7 @@ _Detail from Birth of Venus, Sandro Botticelli, circa 1485, tempera on canvas, 1
 _Detail from Calumny of Apelles, Sandro Botticelli, 1496-1497, tempera on panel, 62 × 91 cm, Uffizi Gallery_
 
 
+
 ---
 
 
