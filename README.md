@@ -29,11 +29,13 @@ _Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. 
 
 
 ![](img/Tizian_Lucretia.jpg)  
-<span style="font-size:0.9em;">Tarquin and Lucretia, Titian, 1571, oil-on-canvas, 188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge</span>
+<span style="font-size:0.9em;">Tarquin and Lucretia, Titian, 1571, oil-on-canvas,  
+188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge</span>
 
 
 ![](img/Bertrand_Lucretia_png.png)  
-_Lucretia, Philippe Bertrand, 1704 or earlier, marble, 69.9 × 109.9 × 52.7 cm,  The Metropolitan Museum of Art, New York City_
+_Lucretia, Philippe Bertrand, 1704 or earlier,  
+marble, 69.9 × 109.9 × 52.7 cm, The Metropolitan Museum of Art, New York City_
 
 
 ![](img/Rembrandt_Lucretia_Eyes.jpg) 
