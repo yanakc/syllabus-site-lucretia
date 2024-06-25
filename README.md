@@ -263,7 +263,8 @@ _“Making his suicidal Lucretia a two-dimensional image on paper, Lotto protect
 
 <img src='img/Disegno_Guercino.jpg' width='300'>
 
-_Disegno and Colore (Drawing and Color), Guercino, c. 1640, oil on canvas, Getty Center_
+_Disegno and Colore (Drawing and Color), Guercino,  
+c. 1640, oil on canvas, Getty Center_
 
 
 ### Shielding Lucretia
