@@ -10,7 +10,7 @@ A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this
 _This visualization is based on the article “Lotto’s Lucretia” by Rona Goffen from the Renaissance Quarterly journal vol. 52, no. 3, 1999. All citations from this text will be marked with an asterisk (*)._
 
 
-Scroll along to find out about [the roman heroine](#but-first-…-who-was-the-roman-heroine-lucretia?), [Lotto´s Lucretia](#her-identity), the [key elements](#veil) of the painting and why is it deemed [unconventional](#a-dual-identity:-masculine-strength,-feminine-honor).
+Scroll along to find out about [the Roman heroine Lucretia](#but-first-…-who-was-the-roman-heroine-lucretia?), [Lotto´s Lucretia](#her-identity), the [key elements](#veil) of the painting and why is it deemed [unconventional](#a-dual-identity:-masculine-strength,-feminine-honor).
 
 
 Strong-looking women are not to be found in most Renaissance paintings. Why is she staring at us like that? What is she pointing at? At first glance, it is a portrait of a wealthy woman. However, a closer look reveals an image that challenges the traditional stereotypes of women as objects of the male gaze.
@@ -72,6 +72,7 @@ _Portrait of a Married Couple, Lorenzo Lotto, c. 1523 - 1524, oil on canvas, 96 
 The article opens with a thesis from the author:
 
 _"Lottos' Lucretia is posed in a way that Renaissance viewers would have recognized as masculine and therefore inappropriate for a lady. Moreover, Lucretia holds afictive drawing, representing the suicide other Roman namesake. The depiction of a fictive drawing was quite exceptional in the 1530s. Lotto' reasons for posing his Lucretia in such an unexpected, masculine way, and his representation of her predecessor's death as a fictive drawing are the means whereby he asserts her virtue. Doing so, Lotto seems to question the traditional patriarchal definitions of woman, female chastity and female sexuality that Lucretia herself has come to embody."*_
+
 
 Lotto aimed to visualize the virtue of the Roman heroine in the person of a contemporary, living woman. He also did much more to interpret Lucretia's character. Based on the article, this visualization explains the additional clues in the painting.
 
@@ -252,6 +253,7 @@ The other piece of paper is a drawing of Lucretia’s suicide. The way she holds
 
 <img src='img/Lucretia_Drawing_2.jpg'>
 
+
 _“Lucretia has a double identity. Lucretia is both herself, presumably with her own face, clothing and jewels, and she is also her pagan onomastic saint. (...) The modern brides or wives are both themselves, in the 1520s or 1530s, and their classical namesakes. They act for themselves and for their predecessors and, doing so, transform their predecessors into alter egos.”*_
 
 
@@ -280,7 +282,9 @@ _"It makes the point graphically: clutching his figurine of the Venus Pudica, St
 
 <img src='img/Titian_Strada.jpg' width='300'>
 
-_Portrait of Jacopo de Strada, Titian, between 1567 and 1568, oil on canvas, 125 × 95 cm, Kunsthistorisches Museum, Vienna_
+_Portrait of Jacopo de Strada, Titian,  
+between 1567 and 1568, oil on canvas, 125 × 95 cm,  
+Kunsthistorisches Museum, Vienna_
 
 
 ---
