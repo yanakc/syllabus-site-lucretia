@@ -260,7 +260,7 @@ _“Lucretia has a double identity. Lucretia is both herself, presumably with he
 
 ## Disegno
 
-According to Vasari, disegno is “the foundation" ("II fondamento") of the arts of sculpture and painting.
+According to Vasari, disegno is “the foundation” (“II fondamento”) of the arts of sculpture and painting.
 
 _“A pen drawing is totally devoid of color, the image being defined only by line. According to ancient and Renaissance thinking, color is inherently feminine and therefore inferior; line, equated with disegno, is on the contrary innately masculine and therefore superior. Line alone may define a thing - as lines define suicidal Lucretia in Lotto's drawing; color may embellish or enrich an image but color by itself is meaningless. The fundamental issue is this: color is feminine and line or disegno masculine.”*_
 
@@ -275,7 +275,8 @@ c. 1640, oil on canvas, Getty Center_
 
 ### Shielding Lucretia
 
-The Venus Pudica can be seen in Titian's portrait of another collector of antiquities, Jacopo Strada. _"It makes the point graphically: clutching his figurine of the Venus Pudica, Strada invites the beholder likewise to imagine grasping her, touching her with his own hands. Lotto did not wish to subject his suicidal Lucretia to such sensual manipulations and imaginings."*_
+The Venus Pudica can be seen in Titian's portrait of another collector of antiquities, Jacopo Strada.  
+_"It makes the point graphically: clutching his figurine of the Venus Pudica, Strada invites the beholder likewise to imagine grasping her, touching her with his own hands. Lotto did not wish to subject his suicidal Lucretia to such sensual manipulations and imaginings."*_
 
 <img src='img/Titian_Strada.jpg' width='300'>
 
@@ -299,13 +300,13 @@ _“Lucretia's masculinity is genuine, inherent in her character. Nor is her mas
 
 _“Shielding Lucretia from the beholder's lust, Lotto masculinizes her even while honoring her femininity in the beautifully gowned beauty of the living Lucretia, in the Venus-like incarnation of the suicidal heroine. Their masculinity is psychological or moral and in no way compromises their feminine identity.”*_
 
-**_“Lucretia is beautiful and virtuous precisely in her combination of masculine and feminine; unlike Hermaphrodite's monstrous admixture of the sexes, Lucretia's twofold sexual identity is presented as exemplary. Perhaps this is another way of saying that virtue has no gender, or that it has or belongs to both genders. And perhaps such an interpretation of Lucretia contains the germs of destruction of oppressive patriarchal definitions of woman, female chastity and female sexuality, that Lucretia herself had come to embody._*”**
+**_“Lucretia is beautiful and virtuous precisely in her combination of masculine and feminine; unlike Hermaphrodite's monstrous admixture of the sexes, Lucretia's twofold sexual identity is presented as exemplary. Perhaps this is another way of saying that virtue has no gender, or that it has or belongs to both genders. And perhaps such an interpretation of Lucretia contains the germs of destruction of oppressive patriarchal definitions of woman, female chastity and female sexuality, that Lucretia herself had come to embody._”***
 
 
 ---
 
 
-This visualization is curated by Yana Cholakova as a part of the course “Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert” at the University of Applied Sciences Potsdam. 
+This visualization is curated by Yana Cholakova as a part of the course _“Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert”_ at the University of Applied Sciences Potsdam. 
 2024
 
 
