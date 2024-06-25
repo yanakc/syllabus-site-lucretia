@@ -10,7 +10,7 @@ A visual exploration of Lorenzo Lotto's enigmatic depiction of Lucretia: In this
 _This visualization is based on the article “Lotto’s Lucretia” by Rona Goffen from the Renaissance Quarterly journal vol. 52, no. 3, 1999. All citations from this text will be marked with an asterisk (*)._
 
 
-Scroll along to find out who was Lucretia, what are the key elements of the painting and why is it deemed unconventional.
+Scroll along to find out about [the roman heroine](#but-first-…-who-was-the-roman-heroine-lucretia?), [Lotto´s Lucretia](#her-identity), the [key elements](#veil) of the painting and why is it deemed [unconventional](#a-dual-identity:-masculine-strength,-feminine-honor).
 
 
 Strong-looking women are not to be found in most Renaissance paintings. Why is she staring at us like that? What is she pointing at? At first glance, it is a portrait of a wealthy woman. However, a closer look reveals an image that challenges the traditional stereotypes of women as objects of the male gaze.
@@ -55,7 +55,9 @@ _Lorenzo Lotto: presumed Self-Portrait, Lorenzo Lotto, 1540s, oil on panel, 43 �
 
 
 ![](img/Lotto_Christ.jpg)  
-_Christ giving his Blood, Lorenzo Lotto, 1543, oil on poplar wood, 50 × 32 cm, Kunsthistorisches Museum, Vienna_
+_Christ giving his Blood, Lorenzo Lotto,  
+1543, oil on poplar wood, 50 × 32 cm,  
+Kunsthistorisches Museum, Vienna_
 
 
 ![](img/Lotto_Couple.jpg)  
@@ -94,7 +96,8 @@ Some art historians have criticized Lucretia's dress and jewelry for being too o
 
 
 ![](img/Caravaggio_Courtesan.jpg)  
-_Portrait of a Courtesan, Caravaggio, 1601, oil on canvas, 66 x 33 cm, Bode Museum, Berlin_
+_Portrait of a Courtesan, Caravaggio, 1601,  
+oil on canvas, 66 x 33 cm, Bode Museum, Berlin_
 
 
 ---
@@ -139,7 +142,8 @@ _Detail from St Lucy before the Judge, Lorenzo Lotto, 1532, oil on panel, 243 ×
 
 
 ![](img/Veil_Madonna_crop.jpg)
-_Detail from Madonna and Child with Two Donors, Lorenzo Lotto, 1533, oil on canvas, 87.6 × 118.1 cm, J. Paul Getty Museum, Los Angeles_
+_Detail from Madonna and Child with Two Donors, Lorenzo Lotto, 1533, oil on canvas, 87.6 × 118.1 cm,  
+J. Paul Getty Museum, Los Angeles_
 
 
 _“Perhaps the disarray of the modern Lucretia's veil is meant as an indirect allusion to the disarray of Roman Lucretia's garments when Tarquin assaults her and also to the disarray of her drapery when she assaults herself. If the veil suggests assault, however, it is an attack that this woman repels, not only by reference to her ancient namesake but with her serious demeanor and vigorous movement.”*_
@@ -173,19 +177,19 @@ The way Lucretia wears her jewelry is also strange. You would expect a lady to w
 <img src='img/Lucretia_Necklace.jpg' class='noresize'>
 
 
+_Putto (plural, putti) are winged infants who either play the role of angelic spirits in religious works, or act as instruments of profane love. They are often shown as associates of Cupid._
+
+The National Gallery, London. (2016). Putti | Glossary | National Gallery, London. Retrieved June 11, 2024, from Nationalgallery.org.uk 
+
+
 ### Pendant
 
-_“‌The most important jewelry item from the Renaissance was the pendant. It replaced the Medieval brooch as being the most common jewel and was worn on a necklace, long gold chain, fixed to the dress or on a chain worn on the girdle. The pendants were often designed to be seen from both sides with their enameled backs equally impressive as their jewel-encrusted fronts.”_ 
+_“‌The most important jewelry item from the Renaissance was the pendant. It replaced the Medieval brooch as being the most common jewel and was worn on a necklace, long gold chain, fixed to the dress or on a chain worn on the girdle. The pendants were often designed to be seen from both sides with their enameled backs equally impressive as their jewel-encrusted fronts.”_   
 Renaissance Jewelry – Antique Jewelry University. (2024). Retrieved June 11, 2024, from Langantiques.com website: https://www.langantiques.com/university/renaissance-jewelry/
 
 <img src='img/Pendant_2.jpg' width='300'>
 
 _Detail from Portrait of Bianca Ponzoni Anguissola, Sofonisba Anguissola, ca. 1557, oil on canvas, 98 × 75 cm, Gemäldegalerie, Berlin_
-
-
-_Putto (plural, putti) are winged infants who either play the role of angelic spirits in religious works, or act as instruments of profane love. They are often shown as associates of Cupid._
-
-The National Gallery, London. (2016). Putti | Glossary | National Gallery, London. Retrieved June 11, 2024, from Nationalgallery.org.uk 
 
 
 ---
@@ -200,7 +204,9 @@ _"In Renaissance Italy as in other cultures, married women - including nuns, who
 
 <img src='img/Zazara_1.jpg' width='300'>
 
-_Portrait of Margherita Paleologo, Giulio Romano, 1531, oil-on-panel, 115.3 x 91 x 2.1 cm, King's Dressing Room, Windsor Castle_
+_Portrait of Margherita Paleologo, Giulio Romano,  
+1531, oil-on-panel, 115.3 x 91 x 2.1 cm,  
+King's Dressing Room, Windsor Castle_
 
 
 ### Origin of the zazara
