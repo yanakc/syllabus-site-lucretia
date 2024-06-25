@@ -291,9 +291,16 @@ _“Lucretia's masculinity is genuine, inherent in her character. Nor is her mas
 
 ## The Timeless Complexity of Lucretia
 
-_Shielding Lucretia from the beholder's lust, Lotto masculinizes her even while honoring her femininity in the beautifully gowned beauty of the living Lucretia, in the Venus-like incarnation of the suicidal heroine. Their masculinity is psychological or moral and in no way compromises their feminine identity.”*_
+_“Shielding Lucretia from the beholder's lust, Lotto masculinizes her even while honoring her femininity in the beautifully gowned beauty of the living Lucretia, in the Venus-like incarnation of the suicidal heroine. Their masculinity is psychological or moral and in no way compromises their feminine identity.”*_
 
 **_“Lucretia is beautiful and virtuous precisely in her combination of masculine and feminine; unlike Hermaphrodite's monstrous admixture of the sexes, Lucretia's twofold sexual identity is presented as exemplary. Perhaps this is another way of saying that virtue has no gender, or that it has or belongs to both genders. And perhaps such an interpretation of Lucretia contains the germs of destruction of oppressive patriarchal definitions of woman, female chastity and female sexuality, that Lucretia herself had come to embody._*”**
+
+
+---
+
+
+This visualization is curated by Yana Cholakova as a part of the course “Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert” at the University of Applied Sciences Potsdam. 
+2024
 
 
 ---
@@ -343,6 +350,8 @@ The template is in use to document the following [Interface Design](https://inte
 
 ---
 
+
+<!--skipnav-->
 
 ## How
 
