@@ -237,7 +237,6 @@ _Detail from Birth of Venus, Sandro Botticelli, circa 1485, tempera on canvas, 1
 _Detail from Calumny of Apelles, Sandro Botticelli, 1496-1497, tempera on panel, 62 × 91 cm, Uffizi Gallery_
 
 
-
 ---
 
 
@@ -247,7 +246,7 @@ The other piece of paper is a drawing of Lucretia’s suicide. The way she holds
 
 <img src='img/Lucretia_Drawing_2.jpg'>
 
-_“Lucretia has a double identity. Lucretia is both herself, presumably with her own face, clothing and jewels, and she is also her pagan onomastic saint. (...)The modern brides or wives are both themselves, in the 1520s or 1530s, and their classical namesakes. They act for themselves and for their predecessors and, doing so, transform their predecessors into alter egos.”*_
+_“Lucretia has a double identity. Lucretia is both herself, presumably with her own face, clothing and jewels, and she is also her pagan onomastic saint. (...) The modern brides or wives are both themselves, in the 1520s or 1530s, and their classical namesakes. They act for themselves and for their predecessors and, doing so, transform their predecessors into alter egos.”*_
 
 
 ---
@@ -259,8 +258,41 @@ According to Vasari, disegno is “the foundation" ("II fondamento") of the arts
 
 _“A pen drawing is totally devoid of color, the image being defined only by line. According to ancient and Renaissance thinking, color is inherently feminine and therefore inferior; line, equated with disegno, is on the contrary innately masculine and therefore superior. Line alone may define a thing - as lines define suicidal Lucretia in Lotto's drawing; color may embellish or enrich an image but color by itself is meaningless. The fundamental issue is this: color is feminine and line or disegno masculine.”*_
 
-
 _“Making his suicidal Lucretia a two-dimensional image on paper, Lotto protects her from our grasp, a fact that he underscores with irony by the vigor, not to say brutality, with which his real Lucretia grabs the image. Similarly, refusing to color his suicidal Lucretia, Lotto in effect masculinizes her, shields her from the familiar charge of seductive femininity.”*_
+
+
+<img src='img/Disegno_Guercino.jpg' width='300'>
+
+_Disegno and Colore (Drawing and Color), Guercino, c. 1640, oil on canvas, Getty Center_
+
+
+### Shielding Lucretia
+
+The Venus Pudica can be seen in Titian's portrait of another collector of antiquities, Jacopo Strada. _"It makes the point graphically: clutching his figurine of the Venus Pudica, Strada invites the beholder likewise to imagine grasping her, touching her with his own hands. Lotto did not wish to subject his suicidal Lucretia to such sensual manipulations and imaginings."*_
+
+<img src='img/Titian_Strada.jpg' width='300'>
+
+_Portrait of Jacopo de Strada, Titian, between 1567 and 1568, oil on canvas, 125 × 95 cm, Kunsthistorisches Museum, Vienna_
+
+
+---
+
+
+## A Dual Identity: Masculine Strength, Feminine Honor
+
+Lorenzo Lotto breaks the mold by portraying Lucretia in a way that both challenges traditional gender norms and defends her femininity, highlighting the complexity and strength of her character.
+
+_“Lucretia's masculinity is genuine, inherent in her character. Nor is her masculinity merely a role that she assumes during her performance for us, only to return to another self, her true self, when the audience departs. The Lucretia we see is the true Lucretia, a woman of manly virtue. Her masculinity does not reside in who she is - she remains a woman, after 61 all - but in what she does, which is to act, and live, with manly virtue.”*_
+
+
+---
+
+
+## The Timeless Complexity of Lucretia
+
+_Shielding Lucretia from the beholder's lust, Lotto masculinizes her even while honoring her femininity in the beautifully gowned beauty of the living Lucretia, in the Venus-like incarnation of the suicidal heroine. Their masculinity is psychological or moral and in no way compromises their feminine identity.”*_
+
+**_“Lucretia is beautiful and virtuous precisely in her combination of masculine and feminine; unlike Hermaphrodite's monstrous admixture of the sexes, Lucretia's twofold sexual identity is presented as exemplary. Perhaps this is another way of saying that virtue has no gender, or that it has or belongs to both genders. And perhaps such an interpretation of Lucretia contains the germs of destruction of oppressive patriarchal definitions of woman, female chastity and female sexuality, that Lucretia herself had come to embody._*”**
 
 
 ---
