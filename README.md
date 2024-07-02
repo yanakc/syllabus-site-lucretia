@@ -190,6 +190,10 @@ _Putto (plural, putti) are winged infants who either play the role of angelic sp
 
 The National Gallery, London. (2016). Putti | Glossary | National Gallery, London. Retrieved June 11, 2024, from Nationalgallery.org.uk 
 
+<img src='img/Rafael_Putti.jpg' class='noresize'>
+_Detail from The Sistine Madonna, Rafael, circa 1513, oil on canvas,  
+269.5 × 201 cm, Gemäldegalerie Alter Meister, Dresden_
+
 
 ### Pendant
 
