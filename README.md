@@ -23,14 +23,15 @@ Strong-looking women are not to be found in most Renaissance paintings. Why is s
 
 To understand Lotto’s painting, we must first know the story of the **Roman heroine Lucretia**. The legend of Lucretia, the wife of Collatinus,  was used in the Roman Republic to symbolize proper womanly virtues such as beauty and chastity and her story was an inspiration for many writers and artists in later times.
 
-The story begins with a drinking bet between young men at Sextus Tarquinius' home, the son of the king of Rome. They decide to surprise their wives to see how they behave in their absence. Lucretia, the wife of Collatinus, behaves virtuously, unlike the other wives of the king's sons. Several days later, Sextus Tarquinius goes to Collatinus' home and is given hospitality. When everyone else is asleep in the house, he goes to Lucretia's bedroom and threatens her with a sword, demanding that she submit to his advances. When she shows no fear of death, he threatens to kill her and stage her body with a servant's to imply adultery. rewrite: She submits, but in the morning calls her father, husband, and uncle and she tells them how she has "lost her honor" and demands that they avenge her rape. Though the men try to convince her that she bears no dishonor, she disagrees and kills herself, her "punishment" for losing her honor.
+The story begins with a drinking bet between young men at Sextus Tarquinius' home, the son of the king of Rome. They decide to surprise their wives to see how they behave in their absence. Lucretia, the wife of Collatinus, behaves virtuously, unlike the other wives of the king's sons. Several days later, Sextus Tarquinius goes to Collatinus' home and is given hospitality. When everyone else is asleep in the house, he goes to Lucretia's bedroom and threatens her with a sword, demanding that she submit to his advances. When she shows no fear of death, he threatens to kill her and stage her body with a servant's to imply adultery. She submits, but in the morning calls her father, husband, and uncle, and she tells them how she has “lost her honor” and demands that they avenge her rape. Though the men try to convince her that she bears no dishonor, she disagrees and kills herself, her “punishment” for losing her honor.
 
 _Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. Retrieved from https://www.thoughtco.com/lucretia-roman-noble-biography-3528396_
 
 
 ![](img/Tizian_Lucretia.jpg)  
-Tarquin and Lucretia, Titian, 1571, oil-on-canvas,  
-188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge
+_Tarquin and Lucretia, Titian, 1571,  
+oil-on-canvas, 188.9 cm × 145.1 cm,  
+Fitzwilliam Museum, Cambridge_
 
 
 ![](img/Bertrand_Lucretia_png.png)  
@@ -52,7 +53,9 @@ Lorenzo Lotto (about 1480 - 1556) was an important Italian painter of the High R
 
 
 ![](img/Lotto_Portrait.jpg)  
-_Lorenzo Lotto: presumed Self-Portrait, Lorenzo Lotto, 1540s, oil on panel, 43 × 35 cm, Thyssen-Bornemisza Museum, Madrid_
+_Lorenzo Lotto: presumed Self-Portrait,  
+Lorenzo Lotto, 1540s, oil on panel, 43 × 35 cm,  
+Thyssen-Bornemisza Museum, Madrid_
 
 
 ![](img/Lotto_Christ.jpg)  
@@ -72,7 +75,7 @@ _Portrait of a Married Couple, Lorenzo Lotto, c. 1523 - 1524, oil on canvas, 96 
 
 The article opens with a thesis from the author:
 
-_"Lottos' Lucretia is posed in a way that Renaissance viewers would have recognized as masculine and therefore inappropriate for a lady. Moreover, Lucretia holds afictive drawing, representing the suicide other Roman namesake. The depiction of a fictive drawing was quite exceptional in the 1530s. Lotto' reasons for posing his Lucretia in such an unexpected, masculine way, and his representation of her predecessor's death as a fictive drawing are the means whereby he asserts her virtue. Doing so, Lotto seems to question the traditional patriarchal definitions of woman, female chastity and female sexuality that Lucretia herself has come to embody."*_
+_“Lottos' Lucretia is posed in a way that Renaissance viewers would have recognized as masculine and therefore inappropriate for a lady. Moreover, Lucretia holds a fictive drawing, representing the suicide other Roman namesake. The depiction of a fictive drawing was quite exceptional in the 1530s. Lotto' reasons for posing his Lucretia in such an unexpected, masculine way, and his representation of her predecessor's death as a fictive drawing are the means whereby he asserts her virtue. Doing so, Lotto seems to question the traditional patriarchal definitions of woman, female chastity and female sexuality that Lucretia herself has come to embody.”*_
 
 
 Lotto aimed to visualize the virtue of the Roman heroine in the person of a contemporary, living woman. He also did much more to interpret Lucretia's character. Based on the article, this visualization explains the additional clues in the painting.
@@ -117,10 +120,12 @@ gagliardia            |  leggiadria
 
 <img src='img/Lotto_Man.jpg' width='300'>
 
-_Portrait of a Man, possibly Girolamo Rosati, Lorenzo Lotto, 1533-34, oil on canvas, 135.9 x 128 x 8.6 cm, Cleveland Museum of Art_
+_Portrait of a Man, possibly Girolamo Rosati,  
+Lorenzo Lotto, 1533-34, oil on canvas,  
+135.9 x 128 x 8.6 cm, Cleveland Museum of Art_
 
 
-_"a provocative, confrontational stare and a vigorous, sweeping gesture, at the time more characteristic of a man than of a woman."_
+_“a provocative, confrontational stare and a vigorous, sweeping gesture, at the time more characteristic of a man than of a woman.”_
 
 Sheard, Wendy Stedman. The Portraits. In Brown, Humfrey, and Lucco, Lorenzo Lotto, 43-5 1.
 
@@ -140,7 +145,8 @@ _“Her movements are so forceful that her veil, which should be tucked neatly i
 <img src='img/Lucretia_Veil.jpg' class='noresize'>
 
 
-![](img/Veil_Lucy.jpg)
+<img src='img/Veil_Lucy.jpg' width='300'>
+
 _Detail from St Lucy before the Judge, Lorenzo Lotto, 1532, oil on panel, 243 × 237 cm, Jesi Municipal Art Gallery_
 
 
