@@ -29,13 +29,14 @@ _Lewis, Jone Johnson. (2023, April 5). The Legend of Lucretia in Roman History. 
 
 
 ![](img/Tizian_Lucretia.jpg)  
-<span style="font-size:0.9em;">Tarquin and Lucretia, Titian, 1571, oil-on-canvas,  
-188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge</span>
+Tarquin and Lucretia, Titian, 1571, oil-on-canvas,  
+188.9 cm × 145.1 cm,  Fitzwilliam Museum, Cambridge
 
 
 ![](img/Bertrand_Lucretia_png.png)  
 _Lucretia, Philippe Bertrand, 1704 or earlier,  
-marble, 69.9 × 109.9 × 52.7 cm, The Metropolitan Museum of Art, New York City_
+marble, 69.9 × 109.9 × 52.7 cm,  
+The Metropolitan Museum of Art, New York City_
 
 
 ![](img/Rembrandt_Lucretia_Eyes.jpg) 
@@ -114,7 +115,7 @@ gagliardia            |  leggiadria
 | <span style="font-size:0.7em;">Portrait of Francesco Maria della Rovere, Duke of Urbino, Titian, between 1536 and 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence</span> | <span style="font-size:0.7em;">Portrait of Eleonora Gonzaga della Rovere, Duchess of Urbino, Titian, 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence</span> |
 
 
-![](img/Lotto_Man.jpg)
+<img src='img/Lotto_Man.jpg' width='300'>
 _Portrait of a Man, possibly Girolamo Rosati, Lorenzo Lotto, 1533-34, oil on canvas, 135.9 x 128 x 8.6 cm, Cleveland Museum of Art_
 
 
@@ -283,8 +284,8 @@ _"It makes the point graphically: clutching his figurine of the Venus Pudica, St
 <img src='img/Titian_Strada.jpg' width='300'>
 
 _Portrait of Jacopo de Strada, Titian,  
-between 1567 and 1568, oil on canvas, 125 × 95 cm,  
-Kunsthistorisches Museum, Vienna_
+between 1567 and 1568, oil on canvas,  
+125 × 95 cm, Kunsthistorisches Museum, Vienna_
 
 
 ---
@@ -310,8 +311,7 @@ _“Shielding Lucretia from the beholder's lust, Lotto masculinizes her even whi
 ---
 
 
-This visualization is curated by Yana Cholakova as a part of the course _“Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert”_ at the University of Applied Sciences Potsdam. 
-2024
+This visualization is curated by **Yana Cholakova** as a part of the course _“Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert”_ at the University of Applied Sciences Potsdam, 2024.
 
 
 ---
@@ -319,7 +319,7 @@ This visualization is curated by Yana Cholakova as a part of the course _“Argu
 
 <!--skipnav-->
 
-## Who
+## Credits
 
 *Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
 
