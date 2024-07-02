@@ -212,7 +212,7 @@ _Detail from Portrait of Bianca Ponzoni Anguissola, Sofonisba Anguissola, ca. 15
 
 <img src='img/Lucretia_Zazara.jpg' class='noresize'>
 
-_"In Renaissance Italy as in other cultures, married women - including nuns, who are married to Christ bind and cover their hair with nets, snoods, coifs, turbanswimples, or this kind of loopy concoction, called a zazara. Such zazare were worn by fashionable married ladies in the 1520s and 1530s."‌*_
+_“In Renaissance Italy as in other cultures, married women — including nuns, who are married to Christ bind and cover their hair with nets, snoods, coifs, turbanswimples, or this kind of loopy concoction, called a zazara. Such zazare were worn by fashionable married ladies in the 1520s and 1530s.”*_
 
 
 <img src='img/Zazara_1.jpg' width='300'>
@@ -235,7 +235,7 @@ _Portrait of Isabella d'Este, Titian, 1536, oil-on-canvas, 102 x 64 cm, Kunsthis
 
 ## Venus Pudica
 
-"Venus pudica" is a term used to describe a classic figural pose in Western art. In this, an unclothed female (either standing or reclining) keeps one hand covering her private parts.
+“Venus pudica” is a term used to describe a classic figural pose in Western art. In this, an unclothed female (either standing or reclining) keeps one hand covering her private parts.
 
 Esaak, Shelley. (2020, August 26). Venus Pudica. Retrieved from https://www.thoughtco.com/venus-pudica-182475
 
@@ -246,14 +246,14 @@ The author argues that Lotto intentionally evokes the Venus Pudica in the drawin
 _“Lotto's Lucretia is also ashamed, and like Botticelli's Truth, she holds her right hand away from herself Truth is proclaiming her innocence, that is, she is proclaiming her identity as Truth, while Lucretia is aiming the knife at her bosom - but with the same proclamation of truth implied in the action. It is precisely this act of self-destruction that gives proof to Lucretia's claims of truth, as she herself has already told us.”*_
 
 
-<img src='img/Botticelli_Venus_png.png'>
-
-_Detail from Birth of Venus, Sandro Botticelli, circa 1485, tempera on canvas, 172.5 × 278.5 cm, Uffizi Gallery_
-
-
 <img src='img/Botticelli_Apelles.jpg'>
 
 _Detail from Calumny of Apelles, Sandro Botticelli, 1496-1497, tempera on panel, 62 × 91 cm, Uffizi Gallery_
+
+
+<img src='img/Botticelli_Venus_png.png'>
+
+_Detail from Birth of Venus, Sandro Botticelli, circa 1485, tempera on canvas, 172.5 × 278.5 cm, Uffizi Gallery_
 
 
 ---
