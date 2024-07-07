@@ -311,7 +311,10 @@ between 1567 and 1568, oil on canvas,
 
 Lorenzo Lotto breaks the mold by portraying Lucretia in a way that both challenges traditional gender norms and defends her femininity, highlighting the complexity and strength of her character.
 
-_“Lucretia's masculinity is genuine, inherent in her character. Nor is her masculinity merely a role that she assumes during her performance for us, only to return to another self, her true self, when the audience departs. The Lucretia we see is the true Lucretia, a woman of manly virtue. Her masculinity does not reside in who she is - she remains a woman, after 61 all - but in what she does, which is to act, and live, with manly virtue.”*_
+_“Lucretia's masculinity is genuine, inherent in her character. Nor is her masculinity merely a role that she assumes during her performance for us, only to return to another self, her true self, when the audience departs. The Lucretia we see is the true Lucretia, a woman of manly virtue. Her masculinity does not reside in who she is - she remains a woman, after all - but in what she does, which is to act, and live, with manly virtue.”*_
+
+
+<img src='img/Quote1.png'>
 
 
 ---
