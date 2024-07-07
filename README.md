@@ -285,7 +285,7 @@ _“A pen drawing is totally devoid of color, the image being defined only by li
 _“Making his suicidal Lucretia a two-dimensional image on paper, Lotto protects her from our grasp, a fact that he underscores with irony by the vigor, not to say brutality, with which his real Lucretia grabs the image. Similarly, refusing to color his suicidal Lucretia, Lotto in effect masculinizes her, shields her from the familiar charge of seductive femininity.”*_
 
 
-<img src='img/Disegno_Guercino.jpg' width='300'>
+<img src='img/Disegno_Guercino.jpg' width='250'>
 
 _Disegno and Colore, Guercino, c. 1640,  
 oil on canvas, 231 × 181.1 cm,  
