@@ -147,7 +147,9 @@ _“Her movements are so forceful that her veil, which should be tucked neatly i
 
 <img src='img/Veil_Lucy.jpg' width='300'>
 
-_Detail from St Lucy before the Judge, Lorenzo Lotto, 1532, oil on panel, 243 × 237 cm, Jesi Municipal Art Gallery_
+_Detail from St Lucy before the Judge,  
+Lorenzo Lotto, 1532, oil on panel, 243 × 237 cm,  
+Jesi Municipal Art Gallery_
 
 
 ![](img/Veil_Madonna_crop.jpg)
@@ -192,14 +194,13 @@ The National Gallery, London. (2016). Putti | Glossary | National Gallery, Londo
 
 <img src='img/Rafael_Putti.jpg' class='noresize'>
 
-_Detail from The Sistine Madonna, Rafael, circa 1513, oil on canvas,  
-269.5 × 201 cm, Gemäldegalerie Alter Meister, Dresden_
+_Detail from The Sistine Madonna, Rafael, circa 1513, oil on canvas, 269.5 × 201 cm, Gemäldegalerie Alter Meister, Dresden_
 
 
 ### Pendant
 
 _“‌The most important jewelry item from the Renaissance was the pendant. It replaced the Medieval brooch as being the most common jewel and was worn on a necklace, long gold chain, fixed to the dress or on a chain worn on the girdle. The pendants were often designed to be seen from both sides with their enameled backs equally impressive as their jewel-encrusted fronts.”_   
-Renaissance Jewelry – Antique Jewelry University. (2024). Retrieved June 11, 2024, from Langantiques.com website: https://www.langantiques.com/university/renaissance-jewelry/
+Renaissance Jewelry – Antique Jewelry University. (2024). Retrieved June 11, 2024, from Langantiques.com
 
 <img src='img/Pendant_2.jpg' width='300'>
 
@@ -249,7 +250,9 @@ _“Lotto's Lucretia is also ashamed, and like Botticelli's Truth, she holds her
 
 <img src='img/Botticelli_Apelles.jpg'>
 
-_Detail from Calumny of Apelles, Sandro Botticelli, 1496-1497, tempera on panel, 62 × 91 cm, Uffizi Gallery_
+_Detail from Calumny of Apelles,  
+Sandro Botticelli, 1496-1497, tempera on panel,  
+62 × 91 cm, Uffizi Gallery_
 
 
 <img src='img/Botticelli_Venus_png.png'>
@@ -284,8 +287,9 @@ _“Making his suicidal Lucretia a two-dimensional image on paper, Lotto protect
 
 <img src='img/Disegno_Guercino.jpg' width='300'>
 
-_Disegno and Colore (Drawing and Color), Guercino,  
-c. 1640, oil on canvas, Getty Center_
+_Disegno and Colore, Guercino, c. 1640,  
+oil on canvas, 231 × 181.1 cm,  
+Gemäldegalerie Alte Meister, Staatliche Kunstsammlungen Dresden_
 
 
 ### Shielding Lucretia
@@ -323,29 +327,7 @@ _“Shielding Lucretia from the beholder's lust, Lotto masculinizes her even whi
 ---
 
 
-This visualization is curated by **Yana Cholakova** as a part of the course _“Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert”_ at the University of Applied Sciences Potsdam, 2024.
-
-
----
-
-
-<!--skipnav-->
-
-## Credits
-
-*Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
-
-
-**Markdown munching**: [Marked](https://marked.js.org) by Christopher Jeffrey
-
-
-**Terrific typeface**: [HK Grotesk](https://github.com/HankenDesignCo/HK-Grotesk) by Alfredo Marco Pradil
-
-
-**Friendly feedback**: Myriel Milicevic, Lamin Manneh, Fidel Thomet, Mark-Jan Bludau, Sabine de Günther and Francesca Morini
-
-
-**Yes, you!**: Syllabus Site is [made available](https://github.com/uclab-potsdam/syllabus-site/) under the liberal MIT license. Feel free to reuse and revise it!
+This visualization is curated by **Yana Cholakova** as part of the course _“Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert”_ at the University of Applied Sciences Potsdam, 2024.
 
 
 ---
