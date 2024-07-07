@@ -314,7 +314,7 @@ Lorenzo Lotto breaks the mold by portraying Lucretia in a way that both challeng
 _“Lucretia's masculinity is genuine, inherent in her character. Nor is her masculinity merely a role that she assumes during her performance for us, only to return to another self, her true self, when the audience departs. The Lucretia we see is the true Lucretia, a woman of manly virtue. Her masculinity does not reside in who she is - she remains a woman, after all - but in what she does, which is to act, and live, with manly virtue.”*_
 
 
-<img src='img/Quote1.png'>
+<img src='img/Quote1.png' width='300'>
 
 
 ---
@@ -325,6 +325,12 @@ _“Lucretia's masculinity is genuine, inherent in her character. Nor is her mas
 _“Shielding Lucretia from the beholder's lust, Lotto masculinizes her even while honoring her femininity in the beautifully gowned beauty of the living Lucretia, in the Venus-like incarnation of the suicidal heroine. Their masculinity is psychological or moral and in no way compromises their feminine identity.”*_
 
 **_“Lucretia is beautiful and virtuous precisely in her combination of masculine and feminine; unlike Hermaphrodite's monstrous admixture of the sexes, Lucretia's twofold sexual identity is presented as exemplary. Perhaps this is another way of saying that virtue has no gender, or that it has or belongs to both genders. And perhaps such an interpretation of Lucretia contains the germs of destruction of oppressive patriarchal definitions of woman, female chastity and female sexuality, that Lucretia herself had come to embody._”***
+
+
+<img src='img/Quote2.png' width='300'>
+
+
+<img src='img/Quote3.png' width='300'>
 
 
 ---
