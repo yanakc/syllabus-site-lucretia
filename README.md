@@ -251,8 +251,9 @@ _“Lotto's Lucretia is also ashamed, and like Botticelli's Truth, she holds her
 <img src='img/Botticelli_Apelles.jpg'>
 
 _Detail from Calumny of Apelles,  
-Sandro Botticelli, 1496-1497, tempera on panel,  
-62 × 91 cm, Uffizi Gallery_
+Sandro Botticelli, 1496-1497,  
+tempera on panel, 62 × 91 cm,  
+Uffizi Gallery_
 
 
 <img src='img/Botticelli_Venus_png.png'>
