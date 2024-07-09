@@ -118,7 +118,7 @@ gagliardia            |  leggiadria
 | <span style="font-size:0.7em;">Portrait of Francesco Maria della Rovere, Duke of Urbino, Titian, between 1536 and 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence</span> | <span style="font-size:0.7em;">Portrait of Eleonora Gonzaga della Rovere, Duchess of Urbino, Titian, 1538, oil on canvas, 114 x 103 cm, Uffizi Gallery, Florence</span> |
 
 
-<img src='img/Lotto_Man.jpg' width='300'>
+<img src='img/Lotto_Man.jpg' width='200'>
 
 _Portrait of a Man, possibly Girolamo Rosati,  
 Lorenzo Lotto, 1533-34, oil on canvas,  
