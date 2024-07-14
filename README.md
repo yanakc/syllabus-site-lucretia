@@ -339,6 +339,8 @@ _“Shielding Lucretia from the beholder's lust, Lotto masculinizes her even whi
 
 This visualization is curated by [Yana Cholakova](mailto:yana.cholakova@fh-potsdam.de?subject=Lucretia%20Visualisierung) as part of the course _“Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert”_ at the University of Applied Sciences Potsdam, 2024.
 
+[Zurück zur Übersicht](https://uclab.fh-potsdam.de/bildargument/)
+
 
 ---
 
